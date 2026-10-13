@@ -24,3 +24,10 @@ Os autores devem conferir as orientações específicas de IA e citação no Moo
 - Prompt: “só para anotação, interpretabilidade é um ponto importante do artigo”.
 - Uso: registrar a diretriz no histórico de decisões e nas instruções do projeto, por branch e PR.
 - Limite: nenhum método explicativo foi escolhido e nenhum experimento foi executado nesta atualização.
+
+## Registro 004 — SHAP e LIME (13/10/2026)
+
+- Prompt: “outra anotação, a professora comentou que o SHAP é o estado da arte para explicar modelos, mas também falou de um mais recente chamado LIME”.
+- Uso: registrar o comentário de aula e conferir a cronologia nas fontes primárias dos dois métodos.
+- Verificação: os trabalhos originais são de 2016 (LIME, https://arxiv.org/abs/1602.04938) e 2017 (SHAP, https://arxiv.org/abs/1705.07874).
+- Limite: não houve revisão sistemática do estado da arte, escolha final de método ou implementação. A avaliação relatada da professora foi preservada como relato, sem assumir superioridade universal ou cronologia invertida.
