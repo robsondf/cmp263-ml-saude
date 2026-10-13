@@ -1,0 +1,4 @@
+# Ambiente da validação inicial (Python 3.12); rever e congelar após escolha da base.
+numpy==2.3.5
+pandas==2.2.3
+scikit-learn==1.8.0

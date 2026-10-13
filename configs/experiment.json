@@ -1,0 +1,20 @@
+{
+  "project": "CMP263_2026_2_Turma_A",
+  "protocol_approved": false,
+  "dataset": null,
+  "task": null,
+  "target": null,
+  "prediction_time": null,
+  "primary_metric": null,
+  "split_strategy": null,
+  "seed": 263,
+  "models_proposed": [
+    "dummy",
+    "logistic_regression",
+    "knn",
+    "decision_tree",
+    "random_forest",
+    "svm"
+  ],
+  "notes": "Não treinar nem avaliar sem protocolo aprovado e metadados preenchidos."
+}

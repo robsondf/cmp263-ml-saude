@@ -1,0 +1,17 @@
+\section{Methods and Experimental Design}
+The final protocol will define the prediction target, population, estimand,
+primary metric, and evaluation scheme before model selection. Candidate
+classification algorithms are logistic regression, nearest neighbors,
+decision trees, random forests, and support vector machines, alongside a
+dummy baseline. Regression would require appropriate alternative estimators.
+\subsection{Preprocessing and Validation}
+Imputation, scaling, encoding, feature selection, and any resampling will
+be fitted only on the training portion of each split. All algorithms will
+share the same evaluation splits. Grouped or temporal data will require
+corresponding validation constraints. The final test data will be reserved
+until hyperparameters, calibration, and decision thresholds are fixed.
+\subsection{Interpretation and Reproducibility}
+The selected model will be interpreted with a suitable method and compared
+with an interpretable baseline. Predictive associations will not be treated
+as causal effects. Seeds, environment versions, data hashes, configurations,
+and execution instructions will accompany the code.

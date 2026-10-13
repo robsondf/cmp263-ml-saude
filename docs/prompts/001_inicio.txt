@@ -1,0 +1,17 @@
+Vamos usar este prompt para trabalharmos um artigo para a disciplina - CMP263 - Aprendizagem De Máquina - - Turma A (2026/2), não podemos confundir em hipótese alguma com o artigo da disciplina Tópicos especiais em computalção.
+
+Este artigo vou fazer junto com meu colega Daniel Godoy Bitelo, anexo esta as diretivas para o artigo, e faremos no latex usando o template do SBCk, precismos construir um repositório n o GitHub, e podemos seguir o mesmo padrão de estrutura que usamos no outro artigo, mas temos que ter um repositório próprio para este:
+
+Meu colega mandou as susgestões abaixo, de Dataset para usarmos, a professora é da área da saúde, então acredito que algo nessa linha é o que mais agradaria ela. Ouvi ela comentar para evitar os datasets do kagle por exemplo, que são muitos "batidos" ou seja, muito usados, que já tem muitos notebooks e etc, tenho receio de pegar um dataset ruim por conta disso, mas entendo a preocupação dela, estamos fazendo um artigo de mestrado, então não podemos trazer mais do mesmo.
+
+Estas são as sugestões do colega, quero que você também me indique outros datasets, dando preferência para saude, e que não sejam tão "batidos", mas também quero que você já crie a estrutura para eu compartilhar com ele
+
+[18:05, 29/09/2026] Daniel - UFRGS: Alguns temas para trabalho de ML:
+
+- Quais características do comportamento de navegação são mais relevantes para prever a conversão de uma sessão de e-commerce. Dataset: Online Shoppers Purchasing Intention Dataset.
+
+- Previsão de inadimplência de cartão de crédito. Dataset: Default of Credit Card Clients
+[18:09, 29/09/2026] Daniel - UFRGS: - Desigualdade educacional brasileira. Quais características socioeconômicas e escolares estão associadas ao desempenho educacional de estudantes brasileiros? Dataset: SAEB
+[09:01, 30/09/2026] Daniel - UFRGS: Bom dia. Outra sugestão de tema:
+
+- Como características da produção e da oferta de alimentos estão relacionadas às perdas ao longo da cadeia alimentar brasileira? Dataset: FAO

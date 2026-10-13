@@ -1,0 +1,17 @@
+{
+  "status": "not_acquired",
+  "dataset": null,
+  "sources": [],
+  "required_fields_per_source": [
+    "url",
+    "retrieved_at",
+    "version",
+    "license_or_terms",
+    "dictionary_url",
+    "sha256",
+    "local_path",
+    "rows",
+    "columns"
+  ],
+  "notes": "Preencher com dados observados após aprovação e aquisição."
+}
