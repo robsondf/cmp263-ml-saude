@@ -18,3 +18,16 @@ Os autores devem conferir as orientações específicas de IA e citação no Moo
 - Tarefas: preparar mensagem com URLs completas, inicializar Git local, verificar conta e acesso pela conexão existente e publicar a estrutura em branch com PR.
 - Limitação operacional: a conexão não expõe criação de repositório; Robson criou o remoto. Uma tentativa de autenticação pelo navegador não foi concluída e não foi repetida após a orientação de usar somente a conexão existente.
 - O repositório foi observado como público. Não foram enviados convites ou mensagens ao colega. Tema, dados e protocolo científico seguem pendentes de decisão dos autores.
+
+## Registro 003 — prioridade de interpretabilidade (13/10/2026)
+
+- Prompt: “só para anotação, interpretabilidade é um ponto importante do artigo”.
+- Uso: registrar a diretriz no histórico de decisões e nas instruções do projeto, por branch e PR.
+- Limite: nenhum método explicativo foi escolhido e nenhum experimento foi executado nesta atualização.
+
+## Registro 004 — SHAP e LIME (13/10/2026)
+
+- Prompt: “outra anotação, a professora comentou que o SHAP é o estado da arte para explicar modelos, mas também falou de um mais recente chamado LIME”.
+- Uso: registrar o comentário de aula e conferir a cronologia nas fontes primárias dos dois métodos.
+- Verificação: os trabalhos originais são de 2016 (LIME, https://arxiv.org/abs/1602.04938) e 2017 (SHAP, https://arxiv.org/abs/1705.07874).
+- Limite: não houve revisão sistemática do estado da arte, escolha final de método ou implementação. A avaliação relatada da professora foi preservada como relato, sem assumir superioridade universal ou cronologia invertida.
