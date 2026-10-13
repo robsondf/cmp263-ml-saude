@@ -10,3 +10,5 @@
 - Ajustar imputação, escala, seleção de atributos e balanceamento somente dentro dos dados de treinamento de cada divisão.
 - Grupos e ordem temporal prevalecem sobre divisões aleatórias quando a pergunta exigir.
 - Registrar assistência por IA, prompts e limitações em `docs/uso_ia.md`.
+
+- Interpretabilidade é uma prioridade explícita de Robson para o artigo: considerá-la na escolha de dados/modelos, no planejamento dos experimentos e na discussão. Métodos específicos seguem pendentes da decisão dos autores; explicações preditivas não devem ser apresentadas como causas.
