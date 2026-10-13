@@ -9,7 +9,6 @@
 | 12/10/2026 | Nome `cmp263-ml-saude`, privado em `robsondf` | Proposta operacional; remoto ainda não criado |
 | 12/10/2026 | Robson autorizou criação da estrutura no Git/GitHub; autenticação no navegador não concluída | Git local inicializado; publicação remota pendente |
 | 12/10/2026 | Robson criou `robsondf/cmp263-ml-saude`; conexão existente confirmou repositório vazio e público | Publicação da estrutura em branch + PR, sem merge automático |
-
 | 13/10/2026 | Interpretabilidade é um ponto importante do artigo e deve orientar as escolhas científicas e a discussão | Diretriz explícita de Robson |
 
 Pendente: pergunta, base, versão/licença, recorte, alvo, timing, métricas, estratégia de avaliação, login de Daniel, diretrizes de citação IA do Moodle e divisão de condução/revisão. Não marcar decisões como aprovadas sem evidência.
