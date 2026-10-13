@@ -18,3 +18,9 @@ Os autores devem conferir as orientações específicas de IA e citação no Moo
 - Tarefas: preparar mensagem com URLs completas, inicializar Git local, verificar conta e acesso pela conexão existente e publicar a estrutura em branch com PR.
 - Limitação operacional: a conexão não expõe criação de repositório; Robson criou o remoto. Uma tentativa de autenticação pelo navegador não foi concluída e não foi repetida após a orientação de usar somente a conexão existente.
 - O repositório foi observado como público. Não foram enviados convites ou mensagens ao colega. Tema, dados e protocolo científico seguem pendentes de decisão dos autores.
+
+## Registro 003 — prioridade de interpretabilidade (13/10/2026)
+
+- Prompt: “só para anotação, interpretabilidade é um ponto importante do artigo”.
+- Uso: registrar a diretriz no histórico de decisões e nas instruções do projeto, por branch e PR.
+- Limite: nenhum método explicativo foi escolhido e nenhum experimento foi executado nesta atualização.
